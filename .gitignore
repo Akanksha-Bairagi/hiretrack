@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+.venv/
+venv/
+hiretrack_backup_*.zip
+.env
